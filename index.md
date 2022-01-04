@@ -1,2 +1,2 @@
 # List of SOPs
-- (SCRUM Guideline)[SCRUM-SOP.md]
+- [SCRUM Guideline](SCRUM-SOP.md)
