@@ -98,4 +98,4 @@ Ideally Yes 😄 Team member is accountability partner for the same and s/he tak
 
 ## Any Question or any mistake in the Document?
 
-Please feel free to create issue. We will address it.
+Please feel free to [create issue](https://github.com/redsoftware-hq/docs.github.io/issues). We will address it.

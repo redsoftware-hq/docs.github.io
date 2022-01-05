@@ -75,4 +75,4 @@ Initially the process may be overwhelming as it's a new change. But keep faith o
 
 ## Any Question or any mistake in the Document?
 
-Please feel free to create issue. We will address it.
+Please feel free to [create issue](https://github.com/redsoftware-hq/docs.github.io/issues). We will address it.
