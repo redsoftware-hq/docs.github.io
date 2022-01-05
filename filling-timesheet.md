@@ -1,6 +1,6 @@
 # Filing Time-sheet
 
-## Maintainer
+## Maintainer of this document
 
 - Sanket Patel
 - Darshini Patel
@@ -18,7 +18,7 @@
 
 ## Where to fill the time-sheet
 
-All team members should fill the time-sheet end of the day at https://docs.google.com/forms/d/e/1FAIpQLSdxVo6YTJ4WmkvVeNZ6N4m24ORFiQFHLxJuGQt1uCqFkVLx6g/viewform
+All team members should fill the time-sheet end of the day at [this form](https://docs.google.com/forms/d/e/1FAIpQLSdxVo6YTJ4WmkvVeNZ6N4m24ORFiQFHLxJuGQt1uCqFkVLx6g/viewform)
 
 ## Fields:
 

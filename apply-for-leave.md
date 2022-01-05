@@ -1,6 +1,6 @@
 # Apply for leave
 
-## Maintainer
+## Maintainer of this document
 
 - Sanket Patel
 - Darshini Patel

@@ -1,6 +1,6 @@
 # SCRUM SOP
 
-## Maintainer
+## Maintainer of this document
 
 - Sanket Patel
 - Jayati Agarwal
