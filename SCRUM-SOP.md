@@ -1,5 +1,10 @@
 # SCRUM SOP
 
+### Maintainer
+
+- Sanket Patel (@3sanket3)
+- Jayati Agarwal
+
 ### WHY SCRUM
 
 - To plan out the tasks effectively
