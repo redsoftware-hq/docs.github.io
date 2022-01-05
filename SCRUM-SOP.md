@@ -1,18 +1,18 @@
 # SCRUM SOP
 
-### Maintainer
+## Maintainer
 
 - Sanket Patel (@3sanket3)
 - Jayati Agarwal
 
-### WHY SCRUM
+## WHY SCRUM
 
 - To plan out the tasks effectively
 - To provide the maximum information right before the developers start working on the project
 - To estimate the effort effectively
 - To get the definite deadline
 
-### Stakeholders
+## Stakeholders
 
 - Project Manager (PM)
 - Developers
@@ -70,3 +70,9 @@ If we achieved the deadline then how many additional story points we can try add
 Also the meeting should conclude with one improvement that we think we should make in the next sprint. This improvement should be discussed in sprint planning and should be evaluated in the review meeting whether we followed or not.
 
 Initially the process may be overwhelming as it's a new change. But keep faith on it. Worlds's biggest softwares are being made using this process. And with everyone's support we will surely make it smoother.
+
+---
+
+## Any Question or any mistake in the Document?
+
+Please feel free to create issue. We will address it.
