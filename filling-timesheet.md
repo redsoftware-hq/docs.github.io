@@ -90,7 +90,7 @@ The list is updated and effective from 6th Jan 2021. Based on filling of the Dec
 
 ## FAQ
 
-### Is team member responsible if his/her buddy no files the time-sheet?
+### Is team member responsible if his/her buddy won't fill the time-sheet?
 
 Ideally Yes 😄 Team member is accountability partner for the same and s/he take accountability that his/her buddy fills it. That's why need to build the relation that other person get convinced 😅
 
