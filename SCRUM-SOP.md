@@ -2,7 +2,7 @@
 
 ## Maintainer
 
-- Sanket Patel (@3sanket3)
+- Sanket Patel
 - Jayati Agarwal
 
 ## WHY SCRUM

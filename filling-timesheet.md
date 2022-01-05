@@ -2,7 +2,7 @@
 
 ## Maintainer
 
-- Sanket Patel(@3sanket3)
+- Sanket Patel
 - Darshini Patel
 
 ## WHY to fill time-sheet
@@ -18,7 +18,7 @@
 
 ## Where to fill the time-sheet
 
-We should fill the time-sheet end of the day at https://docs.google.com/forms/d/e/1FAIpQLSdxVo6YTJ4WmkvVeNZ6N4m24ORFiQFHLxJuGQt1uCqFkVLx6g/viewform
+All team members should fill the time-sheet end of the day at https://docs.google.com/forms/d/e/1FAIpQLSdxVo6YTJ4WmkvVeNZ6N4m24ORFiQFHLxJuGQt1uCqFkVLx6g/viewform
 
 ## Fields:
 
@@ -52,7 +52,7 @@ Brief of what you accomplished in the project in the specified time duration
 
 ### If I was assigned the task that was completed in 6hrs should I file 8 hours or 6 hours?
 
-Team member should file actual hours the task really took. There are multiple option like using time tracker but we trust on our team members and we believe what they file will be accurate.
+Team member should file actual hours the task really took. There are multiple option like using time tracker but the management trust on our team members and they believe what they file will be accurate.
 
 ### How can I track my timing precisely
 
@@ -66,21 +66,21 @@ We use slack and slack is having a feature of setting reminder. You can set remi
 
 ### I work on 5 different project in a day, shall I track all my projects?
 
-There are many few members who will have this case that will be mostly managers. Yes, using Toggle like tool you should try to track the hours. We totally understand that it's not easy tasks but it's worth trying. Please reach out to Maintainer of this SOP if you need any help.
+There are many few members who will have this case that will be mostly managers. Yes, using Toggle like tool you should try to track the hours. The management totally understand that it's not easy tasks but it's worth trying. Please reach out to Maintainer of this SOP if you need any help.
 
 ### Will this time-sheet be used to give me more work?
 
-One of the purpose of time-sheet is to make sure that team member will not have over or under burden. To be honest in most cases the manager already know how much generally the task would take. So it's always best to stay honest.
+One of the purpose of time-sheet is to make sure that team member will not have over or under burden. To be honest in most cases the manager already know how much generally the task would take. So answer is yes, if there there is not enough work. Otherwise the management obviously never want to over burden. With this, the management expects openness from the team member to be honest the way management is with them.
 
 ## What is Buddy Structure
 
 Buddy structure is to have someone who can be accountable for your time-sheet filing.
 
-As a company we don't want to force or punish if someone don't fill the time-sheet. And that's why we believe a buddy can be helpful to remind other buddy in a healthy way. In addition two buddies can become a friend and chit-chat other than work as well. Which is important in the remote environment.
+As a company the management don't want to force or punish if someone don't fill the time-sheet. And that's why the management believe a buddy can be helpful to remind other buddy in a healthy way. In addition two buddies can become a friend and chit-chat other than work as well. Which is important in the remote environment.
 
 ## Buddy Structure
 
-The list is updated and effective from 6th Jan 2021. Based on filling of the December we thought to update it.
+The list is updated and effective from 6th Jan 2021. Based on filling of the December the management thought to update it.
 
 - Drashti & Sourav
 - Ashish & Yash
