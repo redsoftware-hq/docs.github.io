@@ -23,25 +23,25 @@ _As of now we are not considering designer as a part of SCRUM. They will directl
 
 ### Preparing the requirements
 
-- PM will create all the tasks on the Click Up under **TO DO**. If the requirement is yet not final, PM can use the _DRAFT_ status and keep the issues there.
-- The tasks are expected to have following template
-  - Title
-  - Description with acceptance criteria as checklist
+1. There will be a backlog list which will have all the requirements that are still under discussion. PM will mention the business requirement.
 
-### Developers will review tasks before sprint planning
+The tasks are expected to have following template
 
-- As soon as the PM it ready with preparing the tasks s/he will update in the slack project channel that the tasks are ready and available for developer to review.
-- PM and developers should mutually agree how much time to allocate for this tasks review.
-- As per discussion PM should update the Sprint meeting time in the channel.
-- Developer can understand the requirement and put in comment what approach they are about to take to solve it
-- If any questions developers have then they should ask in the comments.
-- PM should address the questions if developer have any
-- Once the requirement is reviewed by the developers they should meet for the sprint planning meeting.
+- Title
+- Description with acceptance criteria as checklist
+
+2.  S/he may the for the confirmation from developer if it is clear or not. S/he may assign it to one of the developer(that task representative) as responsible to confirm the requirements in later stage.
+
+3.  Task representative can ask the team leads or anyone in the team if they need input or confirmation.
+
+4.  Once all the inputs are clarified and task representative feel that it is okay to take it into the development. Developer will confirm it by commenting and by adding label "ready-for-development"
+
+5.  In the next sprint planning all the tasks marked as "ready-for-development" will be considered for the estimation
 
 ### Sprint Planning
 
 - PM and Developer will meet at preddecide the timing. Ideally it should not take more than 45mins.
-- They should estimate each task on the basis of Fibonacci series (1,2,3,5,8) In which 5 & 8 should be avoided. The estimation are not hours rather consider the numbers symbolize the size of t-shirt like (1-XS,2-S,3-M,5-L,8-XL)
+- They should estimate each task(marked as "ready-for-development") on the basis of Fibonacci series (1,2,3,5,8) In which 5 & 8 should be avoided. The estimation are not hours rather consider the numbers symbolize the size of t-shirt like (1-XS,2-S,3-M,5-L,8-XL)
 - Estimate using the https://app.storypoint.poker/ (PM will host this game)
 - Come to a mutual agreement how many points we want to take in the defined sprint. (One sprint should be of one week if there are <=2 devs. If more devs are there then we can go for 2 weeks longer sprint)
 - Start the sprint
