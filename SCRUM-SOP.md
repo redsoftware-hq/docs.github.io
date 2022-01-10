@@ -23,20 +23,15 @@ _As of now we are not considering designer as a part of SCRUM. They will directl
 
 ### Preparing the requirements
 
-1. There will be a backlog list which will have all the requirements that are still under discussion. PM will mention the business requirement.
+1. There will be a backlog list which will have all the requirements that are still under discussion. PM will mention the business requirement. The tasks are expected to have Title & Description with acceptance criteria as checklist
 
-The tasks are expected to have following template
+2. S/he may ask for the confirmation from developer if it is clear or not. S/he may assign it to one of the developer(that task representative) as responsible to confirm the requirements in later stage.
 
-- Title
-- Description with acceptance criteria as checklist
+3. Task representative can ask the team leads or anyone in the team if they need input or confirmation.
 
-2.  S/he may the for the confirmation from developer if it is clear or not. S/he may assign it to one of the developer(that task representative) as responsible to confirm the requirements in later stage.
+4. Once all the inputs are clarified and task representative feel that it is okay to take it into the development. Developer will confirm it by commenting and by adding label "ready-for-development"
 
-3.  Task representative can ask the team leads or anyone in the team if they need input or confirmation.
-
-4.  Once all the inputs are clarified and task representative feel that it is okay to take it into the development. Developer will confirm it by commenting and by adding label "ready-for-development"
-
-5.  In the next sprint planning all the tasks marked as "ready-for-development" will be considered for the estimation
+5. In the next sprint planning all the tasks marked as "ready-for-development" will be considered for the estimation
 
 ### Sprint Planning
 
