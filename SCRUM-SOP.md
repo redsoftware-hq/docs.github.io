@@ -43,7 +43,7 @@ _As of now we are not considering designer as a part of SCRUM. They will directl
 
 ### Standup Meeting
 
-Every developer has to answer answer to following 3 questions:
+Every developer has to answer to following 3 questions:
 
 - To help the team to complete the sprint on <deadline date>, what did I completed today?
 - To help the team to complete the sprint on <deadline date>, what will I do tomorrow?
