@@ -1,8 +1,10 @@
-##
-
 # Living RED Values
 
 # Every Day, Everywhere at Every Level
+
+## Maintainer of this document
+
+- Sanket Patel
 
 ### Core Values
 
